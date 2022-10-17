@@ -32,6 +32,12 @@
                     Home
                 </a>
             </li>
+            <li>
+                <a href="/clientes" class="nav-link link-dark">
+                    <i class="bi bi-list-ul me-2"></i>
+                    Clientes
+                </a>
+            </li>
         </ul>
         <hr>
         <strong>Desafio Laravel</strong>

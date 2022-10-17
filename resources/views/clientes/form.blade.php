@@ -3,7 +3,7 @@
 
 <main>
 <div class="container title">
-    <h1>Cadastrar Cliente</h1>
+    <h1>Formulário de cliente</h1>
 </div>
     <div class="container linha-horizontal"></div>
     <div class="container">
