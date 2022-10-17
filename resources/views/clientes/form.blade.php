@@ -1,6 +1,7 @@
 @extends('layouts.site')
 @section('content')
 
+<main>
 <div class="container title">
     <h1>Cadastrar Cliente</h1>
 </div>
@@ -56,4 +57,5 @@
         @endif
     </div>
 </div>
+</main>
 @endsection
